@@ -1,0 +1,1 @@
+SkyResume - upload all files to GitHub, run Actions to build APK. This is a starter safe build.
